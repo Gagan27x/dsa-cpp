@@ -37,19 +37,8 @@ int main(){
     
     
 }
-//code github pe push krna h --after 6
-  
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+
 //int n = 'c'; - converst to associated Ascii value
     
 
